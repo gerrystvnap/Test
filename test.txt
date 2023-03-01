@@ -1,2 +1,5 @@
 Hallo
 Disini
+Bisa pesan:
+  -Es teh
+  -Nasi Goreng
